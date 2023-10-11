@@ -14,7 +14,6 @@ function Bubble()
 
     //Setting Space complexity
     document.getElementById("Space_Worst").innerText="O(1)";
-
     c_delay=0;
 
     for(var i=0;i<array_size-1;i++)

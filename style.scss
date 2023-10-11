@@ -10,7 +10,7 @@ $no_algos: 6;
 {
     margin: 0px;
     padding: 0px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: large;
     font-weight: bold;
     text-transform: uppercase;
@@ -62,7 +62,7 @@ nav
         {
             display: inline-block;
             //text-align: center;
-            font-size: xxx-large;
+            font-size: x-large;
             padding: 3% 0%;
         }
         .algos
@@ -125,18 +125,18 @@ section
 
     .Complexity_Containers {
 
-        margin-top: 20%;
+        margin-top: 30%;
 
         .Pair_Definitions {
 
-            margin-top: 20%;
+            margin-top: 30%;
 
             p {
                 display: inline;
             }
 
             p.Sub_Heading {
-                font-size:medium;
+                font-size:large;
                 text-transform: none;
             }
 
